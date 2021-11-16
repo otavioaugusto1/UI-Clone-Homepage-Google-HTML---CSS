@@ -78,7 +78,7 @@ body{
 }
 .content__search{
   margin-top: 18px;
-  width: 100%;
+  /* */width: 100%;
   max-width: 736px;
   padding: 7px 10px 6px 20px;
   font-size: 18px;
